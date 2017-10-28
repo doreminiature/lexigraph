@@ -1,2 +1,1 @@
-# lexigraph
-λexigraph — knowledge infograph, learning &amp; testing tool
+![lexigraph](https://i.imgur.com/VwCahrf.png)
