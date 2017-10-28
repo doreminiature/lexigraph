@@ -1,1 +1,1 @@
-![lexigraph](https://i.imgur.com/DfnLbwP.png)
+![lexigraph](https://i.imgur.com/IW1mcpK.png)
